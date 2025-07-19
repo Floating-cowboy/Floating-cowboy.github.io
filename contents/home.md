@@ -1,20 +1,12 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
-
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently a Junior undergraduate student at Xiamen University Malaysia
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>MAT2209464@xmu.edu.my</code>  
+<code>cowonfloatingclouds@gmail.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
-
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Xiamen University Malaysia**, Bachelor of Science in Mathematics and Applied Mathematics       (2022-2026)  
+• CGPA: 3.95 / 4.0  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Propogation of chaos, mean-field model, entropy method, high-dimensional statistics, Stochastic algorithms, game theory.
