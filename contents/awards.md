@@ -3,6 +3,8 @@
 • Developed a model to predict the location of the submersible.  
 • Set up physical six-degree-of freedom model, ICER and LP model, Bayes probability model and Annealing algorithm model
 
+-Malaysia rank 2 in 2024 Simon Marais Mathematics Competition                                       12/2024
+
 - Distinction Award(top 3%)</p>08/2023
 
 - Distinction Award(top 3%)</p>09/2023
