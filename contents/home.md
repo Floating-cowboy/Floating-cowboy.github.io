@@ -1,4 +1,4 @@
-I'm currently a Junior undergraduate student at Xiamen University Malaysia
+I'm currently a senior undergraduate student at Xiamen University Malaysia
 
 #### Email  
 <code>MAT2209464@xmu.edu.my</code>  
